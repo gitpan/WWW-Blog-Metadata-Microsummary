@@ -1,0 +1,15 @@
+abstract: Extract Microsummary URI from a
+author: Kentaro Kuribayashi <kentaro@cpan.org>
+build_requires: 
+  Test::More: 0
+distribution_type: module
+generated_by: Module::Install version 0.64
+license: MIT
+name: WWW-Blog-Metadata-Microsummary
+no_index: 
+  directory: 
+    - inc
+    - t
+requires: 
+  WWW::Blog::Metadata: 0
+version: 0.01
